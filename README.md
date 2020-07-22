@@ -6,6 +6,8 @@
 
 #### I'm a GCP Certified Architect with nearly 10 years of experience with AWS as well.  I'm currently learning more about Azure to round out my knowledge of all the cloud providers.
 
+#### You can reach me on LinkedIn here:  www.linkedin.com/in/michael-smith-92018610
+
 <!--
 **smithatlanta/smithatlanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
