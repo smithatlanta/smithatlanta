@@ -1,6 +1,10 @@
 ### Hi, I'm Mike Smith
 
-#### I'm currently an Architect with Warner Media(formerly Turner Broadcasting)
+#### I'm currently an Architect(Cloud) with Warner Media(formerly Turner Broadcasting)
+
+#### I'm currently working on a variety of projects(Around analytics).  Most of my code is private 😬 at the moment, but I do have some open source projects out at TurnerLabs github.
+
+#### I'm a GCP Certified Architect with nearly 10 years of experience with AWS as well.  I'm currently learning more about Azure to round out my knowledge of all the cloud providers.
 
 <!--
 **smithatlanta/smithatlanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
