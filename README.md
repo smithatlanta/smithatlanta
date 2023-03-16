@@ -1,8 +1,8 @@
 ### Hi, I'm Mike Smith
 
-#### I'm currently an Senior Staff Software Architect with Warner Bros Discovery(formerly alot of names)
+#### I'm currently a Principal Engineer with SoundCloud
 
-#### I'm currently working on a variety of projects(Around analytics).  Most of my code is private 😬 at the moment, but I do have some open source projects out at TurnerLabs github.
+#### I'm currently working on a variety of projects.  Most of my code is private 😬 at the moment, but I do have some open source projects out at TurnerLabs github.
 
 #### I'm a former GCP Certified Architect with nearly 12 years of experience with AWS as well.  I'm currently learning more about Azure to round out my knowledge of all the cloud providers.
 
