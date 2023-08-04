@@ -1,10 +1,10 @@
 ### Hi, I'm Mike Smith
 
-#### I'm currently a Principal Engineer with SoundCloud
+#### I'm a Principal Engineer with SoundCloud
 
 #### I'm currently working on a variety of projects.  Most of my code is private 😬 at the moment, but I do have some open source projects out at TurnerLabs github.
 
-#### I'm a Certified Solutions Architect in AWS and GCP with nearly 13 years of experience using AWS.
+#### I'm also a Certified Solutions Architect in AWS and GCP with nearly 13 years of experience using AWS.
 
 #### You can reach me on LinkedIn here:  www.linkedin.com/in/michael-smith-92018610
 
