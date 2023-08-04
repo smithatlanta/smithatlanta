@@ -4,7 +4,7 @@
 
 #### I'm currently working on a variety of projects.  Most of my code is private 😬 at the moment, but I do have some open source projects out at TurnerLabs github.
 
-#### I'm a former GCP Certified Architect with nearly 12 years of experience with AWS as well.  I'm currently learning more about Azure to round out my knowledge of all the cloud providers.
+#### I'm a Certified Solutions Architect in AWS and GCP with nearly 13 years of experience using AWS.
 
 #### You can reach me on LinkedIn here:  www.linkedin.com/in/michael-smith-92018610
 
